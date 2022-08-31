@@ -204,3 +204,5 @@ sudo rm -r pw_light/
 - finaly reload http://localhost/publishwall
 
 ![konec](/home/simon/Projekt PublishWall/konec.png "konec")
+
+- yep to ne dela
