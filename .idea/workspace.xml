@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="031086db-8c42-4205-8901-3548d21acdb1" name="Changes" comment="">
+    <list default="true" id="031086db-8c42-4205-8901-3548d21acdb1" name="Changes" comment="Create Readme.porocilo.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Readme.porocilo.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.porocilo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +48,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661951288737</updated>
-      <workItem from="1661951289869" duration="2808000" />
+      <workItem from="1661951289869" duration="3579000" />
     </task>
+    <task id="LOCAL-00001" summary="Create Readme.porocilo.md">
+      <created>1661954210174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661954210174</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create Readme.porocilo.md">
+      <created>1661954277150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661954277150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,22 +75,14 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="new-branch" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create Readme.porocilo.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Readme.porocilo.md" />
   </component>
 </project>
